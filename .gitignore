@@ -1,0 +1,4 @@
+# Ignore the "Private" folder
+#Private/
+# Ignore pdf files
+*.pdf
